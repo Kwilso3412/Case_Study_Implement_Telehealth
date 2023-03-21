@@ -6,6 +6,6 @@ Description about the dataset
 
 [HealthData.gov](https://healthdata.gov) regularly update the dataset with various information, such as critical staffing shortages, inpatient bed used, admissions for both adult & pediatric and much more. 
 
-This case study will focus on the benefits of implementing a telemedicine system and how the hospital can better serve its patients and reduce the spread of COVID-19. 
+This case study will focus on the benefits of implementing a telemedicine/telehealth system and how the hospital can better serve its patients and reduce the spread of COVID-19. 
 
 I used SQL and MySQL to query data. To complete the analysis, I used Python in Rstudio. Then finally the case study was created in RMarkdown and then Knit into a sharable pdf with links to various resources. 
